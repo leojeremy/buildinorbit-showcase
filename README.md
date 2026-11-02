@@ -2,6 +2,8 @@
 
 Build in Orbit lets a small merchant in Kenya or the United States open an online store: a storefront at their own address, a catalogue, checkout, orders, delivery, taxes, and payments that go straight into the merchant's own accounts. Merchants pay the platform a subscription. It is built on Laravel 13, Livewire 4 and PostgreSQL.
 
+It is live in early access at [buildinorbit.com](https://buildinorbit.com), with its first merchants in Kenya and the US onboarding.
+
 A solo project: I own the design and every decision below. This repo is the engineering thinking behind it. The two shops it was designed around sell differently, get paid differently and charge tax differently, and most of the decisions below came from serving both without building two products.
 
 ## Decisions
